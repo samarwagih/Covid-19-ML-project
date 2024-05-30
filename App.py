@@ -6,7 +6,7 @@ import sklearn
 
 
 # Load the trained machine learning model
-model=pickle.load(open(r'C:\Users\samar\Desktop\uni\3rd year\2nd term\machine learning\ML project\Covid19.sav','rb'))
+model=pickle.load(open(r'.\Covid19.sav','rb'))
 
 
 st.title("Covid-19 App")
