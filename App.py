@@ -6,7 +6,7 @@ import pickle
 
 
 # Load the trained machine learning model
-model=pickle.load(open(r'./Covid19.sav','rb'))
+model=pickle.load(open(r'Covid19.sav','rb'))
 
 
 st.title("Covid-19 App")
