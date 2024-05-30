@@ -1,12 +1,12 @@
 import streamlit as st
-# import pickle
+import pickle
 # import pandas as pd
 # import sklearn
 
 
 
 # Load the trained machine learning model
-# model=pickle.load(open(r'.\Covid19.sav','rb'))
+model=pickle.load(open(r'.\Covid19.sav','rb'))
 
 
 st.title("Covid-19 App")
