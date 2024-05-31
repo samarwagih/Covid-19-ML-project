@@ -1,3 +1,3 @@
-#Covid-19-ML-project
+# Covid-19-ML-project :
 
-#The project aims to develop machine learning models to predict whether a person has covid based on various health-related features.
+### This project provides a comprehensive approach to analyzing Covid-19 data, identifying critical factors affecting patient outcomes, and developing a robust predictive model to assist in the diagnosis and management of Covid-19.
