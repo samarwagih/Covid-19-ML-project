@@ -1,8 +1,11 @@
 # Covid-19-ML-project :
-### This project provides a comprehensive approach to analyzing Covid-19 data, identifying critical factors affecting patient outcomes, and developing a robust predictive model to assist in the diagnosis and management of Covid-19.
+### I have done the &quot;Covid 19&quot; project. Originally, the dataset had 1048575 records. Besides, creating 6 different models and tuning their parameters were very useful for evaluating their performance to decide which one is the most effective for predicting Covid 19 From the above results we can see that although we got the highest accuracy about 91.37% from Gradient Boosting Classifier algorithms, Comes next the &quot;XgBoost&quot; with an accuracy of 91.20% and with a recall of 91% (both classes).As mentioned above, because of the unique characteristics of the medical industry, correctly predicting Covid such as HIPERTENSION is crucial so choosing
+
+which model provided the highest value of Recall should be on the top of priority, also in the
+feature engineering I create new columns: enhance the predictive power of the dataset.
 
 # Covid-19 Detection End to End Deployment :
-### I have done the "Covid 19" project. Originally, the dataset had 1048575 records. Besides, creating 6 different models and tuning their parameters were very useful for evaluating their performance to decide which one is the most effective for predicting Covid 19 From the above results we can see that although we got the highest accuracy (about 91.37%) from Gradient Boosting Classifier algorithms, Comes next the "XgBoost" with an accuracy of 91.20% and with a recall of 91% (both classes).As mentioned above, because of the unique characteristics of the medical industry, correctly predicting Covid such as HIPERTENSION is crucial so choosing which model provided the highest value of Recall should be on the top of priority, also in the feature engineering I create new columns: enhance the predictive power of the dataset.
+### I developed a model deployment system for a COVID-19 dataset to determine whether anindividual has COVID-19 based on a variety of diagnostic measurements. These measurements include factors such as pregnancy, ICU, hypertension, chronic renal disease, obesity, chronic obstructive pulmonary disease (COPD), age, and other diseases. Utilizing Gradient Boosting Classifier algorithms, which are renowned for their high accuracy, I was able to create a robust predictive model. This model effectively analyzes the input data andprovides reliable predictions on a person’s COVID-19 status, aiding in timely and accurate diagnosis.
 
 # Technical aspect :
 ### - Python 3.7
