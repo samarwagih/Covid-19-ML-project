@@ -16,6 +16,7 @@
 
 # Data Collection :
 ### Covid-19 Data Set from kaggle
+### Here is the link https://www.kaggle.com/datasets/meirnizri/covid19-dataset
 
 # Model Creation and Evaluation : 
 ### - Various classification algorithms like Logistic Regression, Random Forest, Decision Tree, Gradient Boosting Classifier, XgBoost, KNN tested.
