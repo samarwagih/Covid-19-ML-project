@@ -3,6 +3,7 @@
 
 # Covid-19 Detection End to End Deployment :
 ### I developed a model deployment system for a COVID-19 dataset to determine whether anindividual has COVID-19 based on a variety of diagnostic measurements. These measurements include factors such as pregnancy, ICU, hypertension, chronic renal disease, obesity, chronic obstructive pulmonary disease (COPD), age, and other diseases. Utilizing Gradient Boosting Classifier algorithms, which are renowned for their high accuracy, I was able to create a robust predictive model. This model effectively analyzes the input data andprovides reliable predictions on a person’s COVID-19 status, aiding in timely and accurate diagnosis.
+### You can access the model deployment of the application https://covid-19-ml-project-samar.streamlit.app/
 
 # Technical aspect :
 ### - Python 3.7
